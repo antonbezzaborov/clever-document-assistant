@@ -59,7 +59,7 @@ Clever Document Assistant — это набор инструментов для:
 Объединение и подготовка данных для обучения Qwen2.5 выполняется в ноутбуке
 1.0-data-consolidation.ipynb
 Поддерживается схема HuggingFace Datasets для совместимости
-Итоговый объединённый датасет опубликован на Kaggle https://www.kaggle.com/datasets/ivkemaev/docvqa-ru-eng-v1
+Итоговый объединённый датасет опубликован на Kaggle https://www.kaggle.com/datasets/antonbezzaborov/docvqa-ru-eng-v1
 
 ---
 
