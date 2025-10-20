@@ -2,7 +2,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-# Clever Document Assistant (RU)
+# Clever Document Assistant (RU/ENG)
 
 **Умный помощник с документами**
 
