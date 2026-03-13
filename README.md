@@ -2,9 +2,9 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-# Clever Document Assistant (RU)
+# Clever Document Assistant (RU/ENG)
 
-**Документы AI-ассистент для визуального вопросно-ответного интерфейса**
+**Умный помощник с документами**
 
 Репозиторий содержит набор средств и экспериментов по построению ассистента для понимания документов с использованием современных визуально-лингвистических моделей (например, Florence 2, Qwen 2.5 VL и др.). Проект включает предобученные и дообученные модели, ноутбуки с пайплайнами обработки данных, тренировками и оценкой, а также телеграм-бот для демонстрации работы.
 
@@ -59,7 +59,7 @@ Clever Document Assistant — это набор инструментов для:
 Объединение и подготовка данных для обучения Qwen2.5 выполняется в ноутбуке
 1.0-data-consolidation.ipynb
 Поддерживается схема HuggingFace Datasets для совместимости
-Итоговый объединённый датасет опубликован на Kaggle https://www.kaggle.com/datasets/ivkemaev/docvqa-ru-eng-v1
+Итоговый объединённый датасет опубликован на Kaggle https://www.kaggle.com/datasets/antonbezzaborov/docvqa-ru-eng-v1
 
 ---
 
