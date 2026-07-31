@@ -152,12 +152,13 @@ clever-document-assistant-ru/
 
 ---
 
-## Опора на исследования (`references/`)
-Архитектурные решения в данном проекте опираются на следующие научные работы:
-1. [Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks](https://github.com/antonbezzaborov/clever-document-assistant/blob/main/references/papers/florence_2_unified_vision_tasks.pdf) (Microsoft Azure AI).
-2. [Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion](https://github.com/antonbezzaborov/clever-document-assistant/blob/main/references/papers/florence_vl_depth_breadth_fusion.pdf) (UMD & Microsoft Research).
-3. [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://github.com/antonbezzaborov/clever-document-assistant/blob/main/references/papers/layoutlmv3_pretraining_document_ai.pdf) (Microsoft Research).
-4. [Document AI: A Comparative Study of Transformer-Based, Graph-Based Models, and Convolutional Neural Networks For Document Layout Analysis](https://github.com/antonbezzaborov/clever-document-assistant/blob/main/references/papers/document_ai_comparative_study_layout_analysis.pdf).
-5. [Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models](https://github.com/antonbezzaborov/clever-document-assistant/blob/main/references/papers/enhancing_document_understanding_contrastive_learning.pdf).
+## Опора на исследования
+Архитектурные решения в данном проекте опираются на следующие научные работы (копии PDF добавлены в репозиторий для удобства):
+
+1. [Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks](references/florence_2_unified_vision_tasks.pdf) (Microsoft Azure AI).
+2. [Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion](references/florence_vl_depth_breadth_fusion.pdf) (UMD & Microsoft Research).
+3. [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](references/layoutlmv3_pretraining_document_ai.pdf) (Microsoft Research).
+4. [Document AI: A Comparative Study of Transformer-Based, Graph-Based Models, and Convolutional Neural Networks For Document Layout Analysis](references/document_ai_comparative_study_layout_analysis.pdf).
+5. [Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models](references/enhancing_document_understanding_contrastive_learning.pdf).
 
 ---
